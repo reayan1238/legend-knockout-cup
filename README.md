@@ -1,3 +1,4 @@
+
 # legend-knockout-cup
 <!DOCTYPE html>
 <html lang="en">
@@ -149,3 +150,4 @@ Complete Registration
 
 </body>
 </html>
+legend-payment-qr.jpg
