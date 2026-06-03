@@ -112,7 +112,7 @@ button{
 <h2>Registration Fee ₹100</h2>
 
 <p>Scan the QR Code and complete payment</p>
-legend-payment-qr.jpg
+
 <img src="legend-payment-qr.jpg" alt="QR Payment" class="qr">
 
 <p>After payment send screenshot to:</p>
