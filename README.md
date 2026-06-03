@@ -150,4 +150,24 @@ Complete Registration
 
 </body>
 </html>
-legend-payment-qr.jpg
+<div class="fee-box">
+
+    <h2>Registration Fee ₹100</h2>
+
+    <p>Scan the QR Code below and complete payment</p>
+
+    <img
+        src="legend-payment-qr.jpg"
+        alt="Payment QR Code"
+        style="width:300px;max-width:100%;border-radius:12px;"
+    >
+
+    <p style="margin-top:15px;">
+        After payment, send the payment screenshot on WhatsApp
+    </p>
+
+    <h3 style="color:#25D366;">
+        WhatsApp: 7501261333
+    </h3>
+
+</div>
