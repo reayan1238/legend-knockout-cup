@@ -124,4 +124,3 @@ Complete Registration
 
 </body>
 </html>
-legend-payment-qr.jpg
